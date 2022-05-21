@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pushapp_ms/src/pages/home_page.dart';
 import 'package:pushapp_ms/src/pages/mensaje_page.dart';
-import 'package:pushapp_ms/src/pages/push_notifications_service.dart';
+import 'package:pushapp_ms/src/pages/push_notifications_page.dart';
 
 void main() async{
 
